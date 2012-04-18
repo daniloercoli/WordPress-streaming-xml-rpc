@@ -1,4 +1,6 @@
 This plugin introduces a new implementation of the XML-RPC parser by using a "streaming" XML parser. 
+Ref:  http://daniloercoli.wordpress.com/2012/04/18/xml-rpc-endpoint-in-wordpress/ ‎
+
 It must have access to the sys tmp folder in which it stores temporary files.
 
 The plugins does the following:
